@@ -1,0 +1,7 @@
+parameters:
+#    ck_evt_frontend.example.class: Ck\Evt\FrontendBundle\Example
+
+services:
+#    ck_evt_frontend.example:
+#        class: %ck_evt_frontend.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

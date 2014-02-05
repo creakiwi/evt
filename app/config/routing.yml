@@ -1,0 +1,12 @@
+ck_evt_shared:
+    resource: "@CkEvtSharedBundle/Resources/config/routing.yml"
+    prefix:   /
+
+ck_evt_backend:
+    resource: "@CkEvtBackendBundle/Resources/config/routing.yml"
+    prefix:   /
+
+ck_evt_frontend:
+    resource: "@CkEvtFrontendBundle/Resources/config/routing.yml"
+    prefix:   /
+

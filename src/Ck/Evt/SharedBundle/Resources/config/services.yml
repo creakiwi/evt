@@ -1,0 +1,7 @@
+parameters:
+#    ck_evt_shared.example.class: Ck\Evt\SharedBundle\Example
+
+services:
+#    ck_evt_shared.example:
+#        class: %ck_evt_shared.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
